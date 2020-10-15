@@ -23,7 +23,7 @@ class Main extends Component {
     }
   }
 
-  //Functions
+  //FUNCTIONS
 
   //user input, stored into state
   artistInput = (e) => {
