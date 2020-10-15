@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/saveTheLyricProjectSix/static/css/main.74cdff36.chunk.css",
-    "main.js": "/saveTheLyricProjectSix/static/js/main.b0f68c0c.chunk.js",
-    "main.js.map": "/saveTheLyricProjectSix/static/js/main.b0f68c0c.chunk.js.map",
+    "main.css": "/saveTheLyricProjectSix/static/css/main.2ba5930c.chunk.css",
+    "main.js": "/saveTheLyricProjectSix/static/js/main.3b1c47f1.chunk.js",
+    "main.js.map": "/saveTheLyricProjectSix/static/js/main.3b1c47f1.chunk.js.map",
     "runtime-main.js": "/saveTheLyricProjectSix/static/js/runtime-main.bce6cd27.js",
     "runtime-main.js.map": "/saveTheLyricProjectSix/static/js/runtime-main.bce6cd27.js.map",
     "static/js/2.af24ad39.chunk.js": "/saveTheLyricProjectSix/static/js/2.af24ad39.chunk.js",
     "static/js/2.af24ad39.chunk.js.map": "/saveTheLyricProjectSix/static/js/2.af24ad39.chunk.js.map",
     "index.html": "/saveTheLyricProjectSix/index.html",
-    "precache-manifest.08d979813b67ef92c18889ffac1b5c68.js": "/saveTheLyricProjectSix/precache-manifest.08d979813b67ef92c18889ffac1b5c68.js",
+    "precache-manifest.db424034e9578d8f682fe802da3fd716.js": "/saveTheLyricProjectSix/precache-manifest.db424034e9578d8f682fe802da3fd716.js",
     "service-worker.js": "/saveTheLyricProjectSix/service-worker.js",
-    "static/css/main.74cdff36.chunk.css.map": "/saveTheLyricProjectSix/static/css/main.74cdff36.chunk.css.map",
+    "static/css/main.2ba5930c.chunk.css.map": "/saveTheLyricProjectSix/static/css/main.2ba5930c.chunk.css.map",
     "static/js/2.af24ad39.chunk.js.LICENSE.txt": "/saveTheLyricProjectSix/static/js/2.af24ad39.chunk.js.LICENSE.txt",
     "static/media/App.css": "/saveTheLyricProjectSix/static/media/myLyricsButton.afc04472.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bce6cd27.js",
     "static/js/2.af24ad39.chunk.js",
-    "static/css/main.74cdff36.chunk.css",
-    "static/js/main.b0f68c0c.chunk.js"
+    "static/css/main.2ba5930c.chunk.css",
+    "static/js/main.3b1c47f1.chunk.js"
   ]
 }
