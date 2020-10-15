@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/saveTheLyricProjectSix/static/css/main.2ba5930c.chunk.css",
-    "main.js": "/saveTheLyricProjectSix/static/js/main.3b1c47f1.chunk.js",
-    "main.js.map": "/saveTheLyricProjectSix/static/js/main.3b1c47f1.chunk.js.map",
-    "runtime-main.js": "/saveTheLyricProjectSix/static/js/runtime-main.bce6cd27.js",
-    "runtime-main.js.map": "/saveTheLyricProjectSix/static/js/runtime-main.bce6cd27.js.map",
-    "static/js/2.af24ad39.chunk.js": "/saveTheLyricProjectSix/static/js/2.af24ad39.chunk.js",
-    "static/js/2.af24ad39.chunk.js.map": "/saveTheLyricProjectSix/static/js/2.af24ad39.chunk.js.map",
-    "index.html": "/saveTheLyricProjectSix/index.html",
-    "precache-manifest.db424034e9578d8f682fe802da3fd716.js": "/saveTheLyricProjectSix/precache-manifest.db424034e9578d8f682fe802da3fd716.js",
-    "service-worker.js": "/saveTheLyricProjectSix/service-worker.js",
-    "static/css/main.2ba5930c.chunk.css.map": "/saveTheLyricProjectSix/static/css/main.2ba5930c.chunk.css.map",
-    "static/js/2.af24ad39.chunk.js.LICENSE.txt": "/saveTheLyricProjectSix/static/js/2.af24ad39.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/saveTheLyricProjectSix/static/media/myLyricsButton.afc04472.jpg"
+    "main.css": "/guessTheLyrics/static/css/main.4e5f20de.chunk.css",
+    "main.js": "/guessTheLyrics/static/js/main.01ade6a7.chunk.js",
+    "main.js.map": "/guessTheLyrics/static/js/main.01ade6a7.chunk.js.map",
+    "runtime-main.js": "/guessTheLyrics/static/js/runtime-main.e2668a14.js",
+    "runtime-main.js.map": "/guessTheLyrics/static/js/runtime-main.e2668a14.js.map",
+    "static/js/2.51868b1f.chunk.js": "/guessTheLyrics/static/js/2.51868b1f.chunk.js",
+    "static/js/2.51868b1f.chunk.js.map": "/guessTheLyrics/static/js/2.51868b1f.chunk.js.map",
+    "index.html": "/guessTheLyrics/index.html",
+    "precache-manifest.cfe1817b6d521abbcdbde71c9f6bd06c.js": "/guessTheLyrics/precache-manifest.cfe1817b6d521abbcdbde71c9f6bd06c.js",
+    "service-worker.js": "/guessTheLyrics/service-worker.js",
+    "static/css/main.4e5f20de.chunk.css.map": "/guessTheLyrics/static/css/main.4e5f20de.chunk.css.map",
+    "static/js/2.51868b1f.chunk.js.LICENSE.txt": "/guessTheLyrics/static/js/2.51868b1f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/guessTheLyrics/static/media/myLyricsButton.afc04472.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bce6cd27.js",
-    "static/js/2.af24ad39.chunk.js",
-    "static/css/main.2ba5930c.chunk.css",
-    "static/js/main.3b1c47f1.chunk.js"
+    "static/js/runtime-main.e2668a14.js",
+    "static/js/2.51868b1f.chunk.js",
+    "static/css/main.4e5f20de.chunk.css",
+    "static/js/main.01ade6a7.chunk.js"
   ]
 }
